@@ -22,7 +22,7 @@
 
 1. In this command line,`crawl` means to **start-up** this spider,and `fang` is the spider's name.which is the **unique identification** of one spider.
 
-    ![alt name](/Users/liusujun/Downloads/WechatIMG4.jpeg)
+    ![alt name](https://s1.ax1x.com/2020/04/15/JiySr4.jpg)
 
 2. If it works correctly, you can see the datas which we want to get will appear fastly.If you just run it for testing,you can use `Ctrl` +`C` to interrupt it.
 
